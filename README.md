@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 Hi, I'm Mike Lane. I'm a Software Development Engineer with Amazon.com. I have an MS in CS with an emphasis on AI and Machine Learning. I write beautiful, maintainable, scalable, and well-tested services on AWS.
 
 ### Contact Me:
