@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://github.com/mikelane/mikelane/blob/master/images/MikeLane.png" />
 
-Hi, I'm Mike Lane. I'm a Sr. Backend Engineer with App Annie. I have an MS in CS with an emphasis on AI and Machine Learning. I write beautiful, maintainable, scalable, and well-tested services on AWS.
+Hi, I'm Mike Lane. I'm a Software Development Engineer with Amazon. I have an MS in CS with an emphasis on AI and Machine Learning. I write beautiful, maintainable, scalable, and well-tested services on AWS.
 
 ### Contact Me:
 - *email:* mikelane@gmail.com
