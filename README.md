@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://github.com/mikelane/mikelane/blob/master/images/MikeLane.png" />
 
-Hi, I'm Mike Lane. I'm a Sr. Backend Engineer at ChowNow. I have an MS in CS with an emphasis on AI and Machine Learning. I write beautiful, maintainable, scalable, and well-tested services.
+Hi, I'm Mike Lane. I'm a Sr. Software Engineer at Rewst. I have an MS in CS with an emphasis on AI and Machine Learning. I write beautiful, maintainable, scalable, and well-tested services.
 
 ### Contact Me:
 - *email:* mikelane@gmail.com
