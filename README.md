@@ -64,7 +64,7 @@ I'm a **Principal Software Engineer and Dev Lead** at **GDIT**, where I architec
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikelane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikelane&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikelane&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook"/>
 </div>
 
 <div align="center">
