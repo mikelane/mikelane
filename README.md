@@ -81,7 +81,7 @@ I'm a **Principal Software Engineer and Dev Lead** at **GDIT**, where I architec
 
 - 🏢 Leading development teams at GDIT on high-impact government technology solutions
 - 🦀 Building [dioxide](https://github.com/mikelane/dioxide) – a Rust-backed dependency injection framework for Python combining PyO3 performance with clean architecture
-- 🐍 Developing [valid8r](https://github.com/mikelane/valid8r) – a functional programming library for clean Python input validation using Maybe monads
+- 🐍 Growing [valid8r](https://github.com/mikelane/valid8r) – a functional programming validation library (3.9K+ PyPI downloads/month) with complete CLI framework integrations (argparse, Click, Typer, Pydantic)
 - 🧪 Creating pytest plugins and testing tools based on Google's Software Engineering principles
 - 🤝 Mentoring engineers and fostering technical excellence through code reviews and pairing
 
@@ -93,13 +93,21 @@ I'm a **Principal Software Engineer and Dev Lead** at **GDIT**, where I architec
 
 ### Frameworks & Libraries
 - **[dioxide](https://github.com/mikelane/dioxide)** – Rust-backed dependency injection for Python (PyO3, clean architecture, cross-platform)
-- **[valid8r](https://github.com/mikelane/valid8r)** – Functional programming validation library with Maybe monad, Pydantic/Click integrations
+- **[valid8r](https://github.com/mikelane/valid8r)** – Functional programming validation library with Maybe monad (3.9K+ monthly downloads, comprehensive CLI framework support)
 - **[reddit-get](https://github.com/mikelane/reddit-get)** – CLI tool for fetching Reddit content (23⭐, perfect for Obsidian workflows)
 
 ### Testing & Developer Tools
 - **[pytest-test-categories](https://github.com/mikelane/pytest-test-categories)** – pytest plugin enforcing test timing based on Google SWE principles
 - **[cookiecutter-python-library](https://github.com/mikelane/cookiecutter-python-library)** – Modern Python library template with Poetry, pre-commit, CI/CD
 - **[cookiecutter-backend-service-aws](https://github.com/mikelane/cookiecutter-backend-service-aws)** – AWS CDK template for Python backend services
+
+---
+
+## 📈 Project Impact
+
+- **[valid8r](https://github.com/mikelane/valid8r)**: 3,926+ PyPI downloads/month, growing adoption in Python validation space
+- **[reddit-get](https://github.com/mikelane/reddit-get)**: 23⭐ community favorite, Obsidian integration
+- **[dioxide](https://github.com/mikelane/dioxide)**: Production-ready Rust+Python DI framework
 
 ---
 
