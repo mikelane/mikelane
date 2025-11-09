@@ -66,12 +66,26 @@ When updating the profile, consider which sections need changes:
 
 ### Adding or Removing Technologies
 
+Tech stack is organized by category:
+- **Languages & Frameworks**: Python, Rust, TypeScript, Java, JavaScript
+- **Cloud & Infrastructure**: AWS (primary expertise), Docker, Kubernetes
+- **Python Ecosystem**: FastAPI, Pydantic, Pytest, Poetry, uv
+- **Infrastructure as Code**: AWS CDK, CDK8S (CDK for Kubernetes)
+- **DevOps & Tools**: GitHub Actions, Git
+- **AI/ML**: TensorFlow, PyTorch, scikit-learn
+
 Tech stack badges use shields.io format:
 ```markdown
 ![TechName](https://img.shields.io/badge/TechName-HEXCOLOR?style=for-the-badge&logo=logoname&logoColor=white)
 ```
 
 Find badge details at: https://shields.io/ and https://simpleicons.org/
+
+**Important Notes:**
+- AWS is the primary cloud platform (extensive experience)
+- Azure and GCP removed (minimal experience, not representative)
+- Terraform removed - CDK is the IaC tool of choice (AWS CDK for AWS, CDK8S for Kubernetes)
+- uv is preferred over pip/pipx for Python package management
 
 ### Updating "What I'm Currently Working On"
 
