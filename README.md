@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Mike%20Lane&fontSize=60&fontColor=c9d1d9&fontAlignY=35&desc=Principal%20Software%20Engineer%20·%20Dev%20Lead%20@%20GDIT&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Mike%20Lane&fontSize=60&fontColor=c9d1d9&fontAlignY=35&desc=Principal%20Software%20Engineer%20·%20Dev%20Lead%20@%20GDIT&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn&fontFamily=Roboto%20Slab" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lanemik)
 [![Email](https://img.shields.io/badge/mikelane@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mikelane@gmail.com)
