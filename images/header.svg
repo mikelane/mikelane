@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" fill="none">
+  <style>
+    .bg { fill: #0d1117; }
+    .block { fill: #c9d1d9; }
+    .subtitle { fill: #8b949e; font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 14px; }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="600" height="120" rx="6"/>
+
+  <!-- M -->
+  <rect class="block" x="30" y="20" width="8" height="40"/>
+  <rect class="block" x="38" y="20" width="8" height="8"/>
+  <rect class="block" x="46" y="28" width="8" height="8"/>
+  <rect class="block" x="54" y="28" width="8" height="8"/>
+  <rect class="block" x="62" y="20" width="8" height="8"/>
+  <rect class="block" x="70" y="20" width="8" height="40"/>
+
+  <!-- I -->
+  <rect class="block" x="90" y="20" width="8" height="40"/>
+
+  <!-- K -->
+  <rect class="block" x="110" y="20" width="8" height="40"/>
+  <rect class="block" x="118" y="36" width="8" height="8"/>
+  <rect class="block" x="126" y="28" width="8" height="8"/>
+  <rect class="block" x="126" y="44" width="8" height="8"/>
+  <rect class="block" x="134" y="20" width="8" height="8"/>
+  <rect class="block" x="134" y="52" width="8" height="8"/>
+
+  <!-- E -->
+  <rect class="block" x="154" y="20" width="8" height="40"/>
+  <rect class="block" x="162" y="20" width="24" height="8"/>
+  <rect class="block" x="162" y="36" width="16" height="8"/>
+  <rect class="block" x="162" y="52" width="24" height="8"/>
+
+  <!-- (space) -->
+
+  <!-- L -->
+  <rect class="block" x="220" y="20" width="8" height="40"/>
+  <rect class="block" x="228" y="52" width="24" height="8"/>
+
+  <!-- A -->
+  <rect class="block" x="264" y="28" width="8" height="32"/>
+  <rect class="block" x="272" y="20" width="16" height="8"/>
+  <rect class="block" x="272" y="36" width="16" height="8"/>
+  <rect class="block" x="288" y="28" width="8" height="32"/>
+
+  <!-- N -->
+  <rect class="block" x="308" y="20" width="8" height="40"/>
+  <rect class="block" x="316" y="28" width="8" height="8"/>
+  <rect class="block" x="324" y="36" width="8" height="8"/>
+  <rect class="block" x="332" y="20" width="8" height="40"/>
+
+  <!-- E -->
+  <rect class="block" x="352" y="20" width="8" height="40"/>
+  <rect class="block" x="360" y="20" width="24" height="8"/>
+  <rect class="block" x="360" y="36" width="16" height="8"/>
+  <rect class="block" x="360" y="52" width="24" height="8"/>
+
+  <!-- Subtitle -->
+  <text class="subtitle" x="300" y="90" text-anchor="middle">Principal Software Engineer · Dev Lead @ GDIT</text>
+</svg>

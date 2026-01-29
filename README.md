@@ -6,16 +6,7 @@
 
 <div align="center">
 
-```
-███╗   ███╗██╗██╗  ██╗███████╗    ██╗      █████╗ ███╗   ██╗███████╗
-████╗ ████║██║██║ ██╔╝██╔════╝    ██║     ██╔══██╗████╗  ██║██╔════╝
-██╔████╔██║██║█████╔╝ █████╗      ██║     ███████║██╔██╗ ██║█████╗
-██║╚██╔╝██║██║██╔═██╗ ██╔══╝      ██║     ██╔══██║██║╚██╗██║██╔══╝
-██║ ╚═╝ ██║██║██║  ██╗███████╗    ███████╗██║  ██║██║ ╚████║███████╗
-╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
-
-         Principal Software Engineer · Dev Lead @ GDIT
-```
+<img src="images/header.svg" alt="Mike Lane - Principal Software Engineer · Dev Lead @ GDIT" width="600"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lanemik)
 [![Email](https://img.shields.io/badge/mikelane@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mikelane@gmail.com)
