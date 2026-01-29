@@ -20,38 +20,30 @@
 <tr>
 <td width="55%" valign="top">
 
-### `$ whoami`
+### About Me
 
-```python
-class MikeLane:
-    role = "Principal Software Engineer & Dev Lead"
-    company = "GDIT"
-    education = "MS Computer Science (AI/ML)"
+**Principal Software Engineer & Dev Lead** at **GDIT**
+MS Computer Science (AI/ML)
 
-    focus = [
-        "Building developer infrastructure",
-        "Rust + Python interop via PyO3",
-        "Testing frameworks & methodology",
-        "Dependency injection architecture",
-    ]
+**Currently focused on:**
+- Building developer infrastructure
+- Rust + Python interop via PyO3
+- Testing frameworks & methodology
+- Dependency injection architecture
 
-    philosophy = "Beautiful code is tested code"
-```
+> *"Beautiful code is tested code"*
 
 </td>
 <td width="45%" valign="top">
 
-### `$ cat principles.txt`
+### Principles
 
-```
-TEST FIRST, SHIP CONFIDENT
-===========================
+**TEST FIRST, SHIP CONFIDENT**
 
-  • Red → Green → Refactor
-  • No escape hatches
-  • Infrastructure as code
-  • Types are documentation
-```
+- 🔴 Red → 🟢 Green → 🔄 Refactor
+- 🚫 No escape hatches
+- 📦 Infrastructure as code
+- 📝 Types are documentation
 
 </td>
 </tr>
@@ -59,7 +51,7 @@ TEST FIRST, SHIP CONFIDENT
 
 ---
 
-## `▸ ACTIVE PROJECTS`
+## Active Projects
 
 <table>
 <tr>
@@ -71,11 +63,9 @@ TEST FIRST, SHIP CONFIDENT
 
 [![Stars](https://img.shields.io/github/stars/mikelane/dioxide?style=flat-square&color=f59e0b)](https://github.com/mikelane/dioxide)
 
-```
-PyO3 · Zero-ceremony
-Clean Architecture
-Cross-platform builds
-```
+*PyO3 · Zero-ceremony*
+*Clean Architecture*
+*Cross-platform builds*
 
 [**→ Explore**](https://github.com/mikelane/dioxide)
 
@@ -89,11 +79,9 @@ Cross-platform builds
 [![Stars](https://img.shields.io/github/stars/mikelane/valid8r?style=flat-square&color=10b981)](https://github.com/mikelane/valid8r)
 [![Downloads](https://img.shields.io/pypi/dm/valid8r?style=flat-square&color=6366f1&label=dl/mo)](https://pypi.org/project/valid8r/)
 
-```
-Maybe Monad · Railway
-argparse · Click · Typer
-Pydantic integration
-```
+*Maybe Monad · Railway*
+*argparse · Click · Typer*
+*Pydantic integration*
 
 [**→ Explore**](https://github.com/mikelane/valid8r)
 
@@ -106,11 +94,9 @@ Pydantic integration
 
 [![Stars](https://img.shields.io/github/stars/mikelane/pytest-gremlins?style=flat-square&color=ef4444)](https://github.com/mikelane/pytest-gremlins)
 
-```
-Fast-first approach
-Let the gremlins loose
-See which ones survive
-```
+*Fast-first approach*
+*Let the gremlins loose*
+*See which ones survive*
 
 [**→ Explore**](https://github.com/mikelane/pytest-gremlins)
 
@@ -120,7 +106,7 @@ See which ones survive
 
 ---
 
-## `▸ TESTING INFRASTRUCTURE`
+## Testing Infrastructure
 
 > *I build tools that make testing unavoidable, fast, and delightful.*
 
@@ -130,11 +116,13 @@ See which ones survive
 
 #### pytest-test-categories
 Enforcing Google's hermetic testing principles
-```
-Small  : No I/O, < 100ms
-Medium : Localhost only, < 1s
-Large  : External deps, < 5s
-```
+
+| Size | Constraints |
+|:-----|:------------|
+| **Small** | No I/O, < 100ms |
+| **Medium** | Localhost only, < 1s |
+| **Large** | External deps, < 5s |
+
 [![GitHub](https://img.shields.io/badge/→_repo-181717?style=flat-square&logo=github)](https://github.com/mikelane/pytest-test-categories)
 
 </td>
@@ -142,11 +130,11 @@ Large  : External deps, < 5s
 
 #### pytest-gremlins
 Fast-first mutation testing for pytest
-```
+
 🧬 Mutate your code
 👹 Release the gremlins
 🎯 Find weak tests
-```
+
 [![GitHub](https://img.shields.io/badge/→_repo-181717?style=flat-square&logo=github)](https://github.com/mikelane/pytest-gremlins)
 
 </td>
@@ -155,10 +143,10 @@ Fast-first mutation testing for pytest
 
 ---
 
-## `▸ TECH STACK`
+## Tech Stack
 
 <details>
-<summary><b>Languages</b> — <i>click to expand</i></summary>
+<summary><b>Languages</b></summary>
 <br>
 
 | Primary | Secondary | Learning |
@@ -169,46 +157,46 @@ Fast-first mutation testing for pytest
 </details>
 
 <details>
-<summary><b>Python Ecosystem</b> — <i>click to expand</i></summary>
+<summary><b>Python Ecosystem</b></summary>
 <br>
 
-```
-Frameworks     FastAPI · Pydantic · SQLAlchemy
-Testing        pytest · hypothesis · pytest-gremlins
-Packaging      uv · Poetry · pip-tools
-Type Safety    mypy · Pydantic · beartype
-```
+| | |
+|:--|:--|
+| **Frameworks** | FastAPI · Pydantic · SQLAlchemy |
+| **Testing** | pytest · hypothesis · pytest-gremlins |
+| **Packaging** | uv · Poetry · pip-tools |
+| **Type Safety** | mypy · Pydantic · beartype |
 
 </details>
 
 <details>
-<summary><b>Infrastructure</b> — <i>click to expand</i></summary>
+<summary><b>Infrastructure</b></summary>
 <br>
 
-```
-Cloud          AWS (primary) · Lambda · ECS · S3
-IaC            AWS CDK · CDK8S · CloudFormation
-Containers     Docker · Kubernetes · EKS
-CI/CD          GitHub Actions · CodePipeline
-```
+| | |
+|:--|:--|
+| **Cloud** | AWS (primary) · Lambda · ECS · S3 |
+| **IaC** | AWS CDK · CDK8S · CloudFormation |
+| **Containers** | Docker · Kubernetes · EKS |
+| **CI/CD** | GitHub Actions · CodePipeline |
 
 </details>
 
 <details>
-<summary><b>AI/ML</b> — <i>click to expand</i></summary>
+<summary><b>AI/ML</b></summary>
 <br>
 
-```
-Frameworks     PyTorch · TensorFlow · scikit-learn
-Tools          Jupyter · pandas · numpy
-Focus          Applied ML · MLOps · Model serving
-```
+| | |
+|:--|:--|
+| **Frameworks** | PyTorch · TensorFlow · scikit-learn |
+| **Tools** | Jupyter · pandas · numpy |
+| **Focus** | Applied ML · MLOps · Model serving |
 
 </details>
 
 ---
 
-## `▸ PROJECT TEMPLATES`
+## Project Templates
 
 *Bootstrap production-ready projects in seconds:*
 
@@ -219,7 +207,7 @@ Focus          Applied ML · MLOps · Model serving
 
 ---
 
-## `▸ STATS`
+## Stats
 
 <div align="center">
 
